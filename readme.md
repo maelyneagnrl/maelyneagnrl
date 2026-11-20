@@ -12,6 +12,7 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Design
@@ -37,3 +38,9 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 - -🕹️ **Maquette Instant Gaming** - Réalisation de la maquette de la page d'accueil d'Instant Gaming avec Figma pour comprendre le fonctionnement des auto-layout.
 - 🎓 **Campus flow** - Design d'une interface d'application pour les étudiants pour mettre en pratique le design UI/UX.
 - 🦒 **Girafe** - Mise en pratique de l'outil Illustrator afin de recopier un dessin de Girafe.
+
+## 📫 Me contacter
+
+- GitHub : [@maelyneagnrl](https://github.com/maelyneagnrl)
+- Linkedin : [@Maëlyne Aignerelle](www.linkedin.com/in/maëlyne-aignerelle-618aa9383)
+- Email : maelyne.aignerelle@gmail.com
