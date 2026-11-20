@@ -43,4 +43,4 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 
 - GitHub : [@maelyneagnrl](https://github.com/maelyneagnrl)
 - Linkedin : [@Maëlyne Aignerelle](www.linkedin.com/in/maëlyne-aignerelle-618aa9383)
-- Email : maelyne.aignerelle@gmail.com
+- Email : (maelyne.aignerelle@gmail.com)
