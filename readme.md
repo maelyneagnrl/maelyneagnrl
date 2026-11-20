@@ -23,3 +23,17 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
+## 🚀 Mes projets
+
+### Developpement
+
+- 🎮 **Le Décodeur** - Jeu de logique inspiré du Mastermind en HTML, CSS et JS.
+- 🍳 **CuisineLight** - Site web autour de la cuisine et des recettes avec base de données en local.
+- 🌐 **Les femmes dans l'informatique** - Site en HTML et CSS pour mettre en pratique le responsive.
+-🕹️ **Instant Gaming** - Reproduction d'une maquette de la page d'accueil d'Instant Gaming en HTML et CSS pour comprendre le fonctionnement du "display: flex"
+
+### Design
+
+- -🕹️ **Maquette Instant Gaming** - Réalisation de la maquette de la page d'accueil d'Instant Gaming avec Figma pour comprendre le fonctionnement des auto-layout.
+- 🎓 **Campus flow** - Design d'une interface d'application pour les étudiants pour mettre en pratique le design UI/UX.
+- 🦒 **Girafe** - Mise en pratique de l'outil Illustrator afin de recopier un dessin de Girafe.
