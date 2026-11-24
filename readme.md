@@ -1,10 +1,10 @@
-# 👋 Salut, moi c'est Maëlyne !
+# Salut, moi c'est Maëlyne !
 
 💻 Étudiante en création numérique et passionnée par le développement web.
 
 Je m'intéresse particulièrement à la programmation, à la création de sites web et au design d'interfaces.
 
-## 🛠️ Technologies & outils
+##  Technologies & outils
 
 ### Developpement
 
@@ -24,7 +24,7 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-## 🚀 Mes projets
+##  Mes projets
 
 ### Developpement
 
@@ -39,8 +39,10 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 - 🎓 **Campus flow** - Design d'une interface d'application pour les étudiants pour mettre en pratique le design UI/UX.
 - 🦒 **Girafe** - Mise en pratique de l'outil Illustrator afin de recopier un dessin de Girafe.
 
-## 📫 Me contacter
+## Me contacter
 
 - GitHub : [@maelyneagnrl](https://github.com/maelyneagnrl)
 - Linkedin : [@Maëlyne Aignerelle](www.linkedin.com/in/maëlyne-aignerelle-618aa9383)
 - Email : maelyne.aignerelle@gmail.com
+- Portfolio :
+- CV : 
