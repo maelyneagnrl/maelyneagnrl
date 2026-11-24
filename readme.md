@@ -2,7 +2,7 @@
 
 💻 Étudiante en création numérique et passionnée par le développement web.
 
-Je m'intéresse particulièrement à la programmation, à la création de sites web et au design d'interfaces.
+Je m'intéresse particulièrement au design d'interfaces, à la création de sites web et à la programmation.
 
 ##  Technologies & outils
 
