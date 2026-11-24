@@ -35,7 +35,7 @@ Je m'intéresse particulièrement à la programmation, à la création de sites 
 
 ### Design
 
-- -🕹️ **Maquette Instant Gaming** - Réalisation de la maquette de la page d'accueil d'Instant Gaming avec Figma pour comprendre le fonctionnement des auto-layout.
+- 🕹️ **Maquette Instant Gaming** - Réalisation de la maquette de la page d'accueil d'Instant Gaming avec Figma pour comprendre le fonctionnement des auto-layout.
 - 🎓 **Campus flow** - Design d'une interface d'application pour les étudiants pour mettre en pratique le design UI/UX.
 - 🦒 **Girafe** - Mise en pratique de l'outil Illustrator afin de recopier un dessin de Girafe.
 
